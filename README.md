@@ -44,3 +44,10 @@ Maybe you will see:
 Learning by building.
 Building by breaking.
 Breaking things very professionally.
+
+---
+
+## Contact 📬
+- Email: vientoanuin@gmail.com
+- Portfolio: coming soon
+- Status: probably debugging something
